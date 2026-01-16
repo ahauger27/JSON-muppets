@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "first_name": "Kermit",
+    "last_name": "Frog",
+    "species": "Frog",
+    "performer": "Jim Henson",
+    "appearances": ["The Muppet Show", "Sesame Street", "Muppet Babies"]
+  },
+  {
+    "id": 1,
+    "first_name": "Fozzie",
+    "last_name": "Bear",
+    "species": "Bear",
+    "performer": "Frank Oz",
+    "appearances": ["The Muppet Show", "Muppet Treasure Island"]
+  },
+  {
+    "id": 2,
+    "first_name": "Miss",
+    "last_name": "Piggy",
+    "species": "Pig",
+    "performer": "Frank Oz",
+    "appearances": ["The Muppet Show", "The Muppets Take Manhattan"]
+  },
+  {
+    "id": 3,
+    "first_name": "Gonzo",
+    "last_name": "The Great",
+    "species": "Unknown",
+    "performer": "Dave Goelz",
+    "appearances": ["The Muppet Show", "A Muppet Christmas Carol"]
+  },
+  {
+    "id": 4,
+    "first_name": "Rowlf",
+    "last_name": "Dog",
+    "species": "Dog",
+    "performer": "Jim Henson",
+    "appearances": ["The Jimmy Dean Show", "The Muppet Show"]
+  }
+]
