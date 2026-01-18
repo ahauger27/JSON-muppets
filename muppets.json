@@ -1,42 +1,58 @@
 [
   {
-    "id": 0,
-    "first_name": "Kermit",
-    "last_name": "Frog",
-    "species": "Frog",
-    "performer": "Jim Henson",
-    "appearances": ["The Muppet Show", "Sesame Street", "Muppet Babies"]
+    "Id": 0,
+    "FirstName": "Kermit",
+    "LastName": "the Frog",
+    "Species": "Frog",
+    "Performer": "Jim Henson",
+    "Appearances": [
+      "The Muppet Show",
+      "Sesame Street",
+      "Muppet Babies"
+    ]
   },
   {
-    "id": 1,
-    "first_name": "Fozzie",
-    "last_name": "Bear",
-    "species": "Bear",
-    "performer": "Frank Oz",
-    "appearances": ["The Muppet Show", "Muppet Treasure Island"]
+    "Id": 1,
+    "FirstName": "Fozzie",
+    "LastName": "Bear",
+    "Species": "Bear",
+    "Performer": "Frank Oz",
+    "Appearances": [
+      "The Muppet Show",
+      "Muppet Treasure Island"
+    ]
   },
   {
-    "id": 2,
-    "first_name": "Miss",
-    "last_name": "Piggy",
-    "species": "Pig",
-    "performer": "Frank Oz",
-    "appearances": ["The Muppet Show", "The Muppets Take Manhattan"]
+    "Id": 2,
+    "FirstName": "Miss",
+    "LastName": "Piggy",
+    "Species": "Pig",
+    "Performer": "Frank Oz",
+    "Appearances": [
+      "The Muppet Show",
+      "The Muppets Take Manhattan"
+    ]
   },
   {
-    "id": 3,
-    "first_name": "Gonzo",
-    "last_name": "The Great",
-    "species": "Unknown",
-    "performer": "Dave Goelz",
-    "appearances": ["The Muppet Show", "A Muppet Christmas Carol"]
+    "Id": 3,
+    "FirstName": "Gonzo",
+    "LastName": "The Great",
+    "Species": "Unknown",
+    "Performer": "Dave Goelz",
+    "Appearances": [
+      "The Muppet Show",
+      "A Muppet Christmas Carol"
+    ]
   },
   {
-    "id": 4,
-    "first_name": "Rowlf",
-    "last_name": "Dog",
-    "species": "Dog",
-    "performer": "Jim Henson",
-    "appearances": ["The Jimmy Dean Show", "The Muppet Show"]
+    "Id": 4,
+    "FirstName": "Rowlf",
+    "LastName": "the Dog",
+    "Species": "Dog",
+    "Performer": "Jim Henson",
+    "Appearances": [
+      "The Jimmy Dean Show",
+      "The Muppet Show"
+    ]
   }
 ]
